@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\redpacketlibrary\unspecified\jars\classes.jar"
+        revision="24.0.1"
+        sha1="6a4dcc86e4ae9e3010bb253cd0de98228f88b7f2">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-434930b9470a4b4eed790552e391258e910e3792.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\BaiduLBS_Android.jar"
+        revision="24.0.1"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\BaiduLBS_Android-e69da32ca241df713263432fad233d605d8bfa19.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\glide-3.6.1.jar"
+        revision="24.0.1"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.6.1-6de673e920fd08e3c6458f8e1f0c979bbbf4944d.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\android-support-v4.jar"
+        revision="24.0.1"
+        sha1="da351fadee6981cb47e9ee685f70924283214fda">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-support-v4-2a8f3a03769c397dd0dcee814947b0243718fd61.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\MiPush_SDK_Client_2_2_19.jar"
+        revision="24.0.1"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\MiPush_SDK_Client_2_2_19-07fb73637f50be9ea2477f7a677520dfc801249e.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\platforms\android-23\optional\org.apache.http.legacy.jar"
+        revision="24.0.1"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-44e89004e15aa0a6839747445fd7221096c3e754.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\libs\bolts-tasks-1.4.0.jar"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-tasks-1.4.0-27135e45691668b13318e65b32ae0600656046a1.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\libs\umeng-update-v2.6.0.1.jar"
+        revision="24.0.1"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng-update-v2.6.0.1-9eaf0fbe222e415a90bac3abe147365645a46368.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\HwPush_SDK_V2705_nomap.jar"
+        revision="24.0.1"
+        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\HwPush_SDK_V2705_nomap-8a7e2f8472b14c0f2935de2d1179d5a3598c9241.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\classes.jar"
+        revision="24.0.1"
+        sha1="068e39be908e09538126afa502b113174bdf2553">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6a21f848c7731bc8362e101848e77528af9be707.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\org.apache.http.legacy.jar"
+        revision="24.0.1"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\org.apache.http.legacy-f20ee3e2bb84c779da70f53e75877e8d546ffa12.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\libs\parse-android-1.13.0.jar"
+        revision="24.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\parse-android-1.13.0-391eae1e85b4946544a9f85dc548ab966e51b21b.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\redpacketlibrary\unspecified\jars\libs\redpacket-3.2.0.jar"
+        revision="24.0.1"
+        sha1="63861033786f77bda012db269bdffdf220796611">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\redpacket-3.2.0-1b2881845c423b5f340546ce3bc32a737b7603cd.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\libs\umeng-analytics-v5.2.4.jar"
+        revision="24.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng-analytics-v5.2.4-54b9012b6e43799abe13426aea6fadb678744f7d.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\libs\android-support-multidex.jar"
+        revision="24.0.1"
+        sha1="9a9d5c95d823ccda38f185a5f80ace6bfd61c0d5">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-support-multidex-72d7ef6b9135d7e9337e91939cf93ece35933442.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\google-play-services.jar"
+        revision="24.0.1"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\google-play-services-c88d2541eb8a2c8ed713b9e699a42737fb160c5b.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\platforms\android-23\android.jar"
+        revision="24.0.1"
+        sha1="b113bd230b928d8fbd535c1522ac52c6d639decc">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-3b274a4bbba4a916ff7dffbd497502e66d8eeb09.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\easeUI_CN\unspecified\jars\libs\hyphenatechat_3.2.0.jar"
+        revision="24.0.1"
+        sha1="0f020da1c9c98a40ac403d82cbce9adb1b4dec2b">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hyphenatechat_3.2.0-3cf128ef07672e24f88218e350021e83c6fbd693.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\redpacketlibrary\unspecified\jars\libs\alipaySdk-20160516.jar"
+        revision="24.0.1"
+        sha1="3dc967df12a04b5e1fd7641a5661d159b747297f">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\alipaySdk-20160516-aa56cc45378686f37839eedc4965b0c3cf88529f.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\exploded-aar\VRhouse\redpacketlibrary\unspecified\jars\libs\volley-1.0.19.jar"
+        revision="24.0.1"
+        sha1="8a7a97f2584bf42e53fc1ae4a02ea4a6070a999a">
+        <dex dex="D:\Users\lenovo\AndroidStudioProjects\VRhouse\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\volley-1.0.19-49ef445c9fe083207f9d114e6c26eeefca34f3b6.jar" />
+    </item>
+
+</items>
